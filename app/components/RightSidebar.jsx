@@ -42,7 +42,7 @@ export default function RightSidebar() {
   return (
     <aside className="hidden md:block w-full">
       <div className="sticky top-12">
-        <div className="overflow-y-auto max-h-[calc(100vh-80px)] pr-1 scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-transparent">
+        <div className="overflow-y-auto max-h-[calc(100vh-120px)] pr-1 scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-transparent">
           <div className="bg-white rounded-xl border border-gray-300 shadow-sm p-2 mb-3">
             <h3 className="text-xs font-semibold mb-3">Trending Recipes</h3>
 
